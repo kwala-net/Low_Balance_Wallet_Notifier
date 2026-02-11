@@ -236,5 +236,3 @@ If you encounter any issues or have questions:
 **Made with ❤️ using Kwala Network**
 
 ⭐ Star this repo if you find it useful!
-
-https://kwala.network/docs/use-cases/low-wallet-balance-notifier
